@@ -1,0 +1,435 @@
+
+-------
+21/15/2019 21:15:53
+-------
+
+
+-------
+21/15/2019 21:15:55
+-------
+
+
+-------
+21/15/2019 21:15:55
+-------
+
+
+-------
+21/16/2019 21:16:57
+-------
+
+
+-------
+21/16/2019 21:16:59
+-------
+
+
+-------
+21/17/2019 21:17:00
+-------
+
+
+-------
+21/18/2019 21:18:33
+-------
+
+
+-------
+21/18/2019 21:18:36
+-------
+
+
+-------
+21/18/2019 21:18:36
+-------
+
+
+-------
+21/21/2019 21:21:10
+-------
+
+
+-------
+21/21/2019 21:21:12
+-------
+
+
+-------
+21/21/2019 21:21:13
+-------
+
+
+-------
+21/23/2019 21:23:19
+-------
+
+
+-------
+21/23/2019 21:23:22
+-------
+
+
+-------
+21/23/2019 21:23:22
+-------
+
+
+-------
+21/30/2019 21:30:10
+-------
+
+
+-------
+21/32/2019 21:32:26
+-------
+
+
+-------
+21/33/2019 21:33:19
+-------
+
+
+-------
+21/34/2019 21:34:16
+-------
+
+
+-------
+21/39/2019 21:39:03
+-------
+
+
+-------
+21/44/2019 21:44:07
+-------
+
+
+-------
+21/44/2019 21:44:21
+-------
+
+
+-------
+21/44/2019 21:44:24
+-------
+
+
+-------
+21/45/2019 21:45:08
+-------
+
+
+-------
+21/45/2019 21:45:14
+-------
+
+
+-------
+21/45/2019 21:45:15
+-------
+
+
+-------
+21/47/2019 21:47:25
+-------
+
+
+-------
+21/47/2019 21:47:31
+-------
+
+
+-------
+21/47/2019 21:47:32
+-------
+
+
+-------
+21/51/2019 21:51:40
+-------
+
+
+-------
+21/56/2019 21:56:02
+-------
+
+
+-------
+21/56/2019 21:56:58
+-------
+
+
+-------
+21/57/2019 21:57:50
+-------
+
+Error executing 'INSERT INTO public.member VALUES (1, 'admin', '$2a$10$D9a2twLMHOnQ7II2NWKAbOIsa5osVoGBUJAvsjlBkBDlGPbKmIyHG') ' (line 19): HATA: "id" sütunu uuid tipinde ancak ifade integer tipindedir
+  Hint: Bu ifadeyi yinden yazmalı ya da sonucunu cast etmelisiniz.
+  Position: 35
+Error executing 'INSERT INTO public.member VALUES (2, 'onur', '$2a$10$qn2DTVVh3OkHnWMNr3.uPO3jc7Y0uos8nCT1xYaaI.UW5DE4oKkqu') ' (line 20): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.article VALUES ('4eac5f28-9070-4f79-9199-13eb6e183f2f', 1, NULL, 'An editor for every project', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras gravida, mauris quis aliquam porta, est massa pretium enim, vel efficitur elit tortor at neque. Integer quis nibh massa. Nunc at massa malesuada, placerat leo vel, imperdiet arcu.', '<p><img style="float: right;" src="images/glyph-tinymce@2x.png" alt="TinyMCE" height="150px" /></p>
+<h2>An editor for every project</h2>
+<p>No matter what you''re building, TinyMCE has you covered. From content management to email marketing, here are our customers'' most common uses:</p>
+<ul>
+<li>Content Management Systems (<em>e.g. WordPress, Umbraco</em>)</li>
+<li>Learning Management Systems (<em>e.g. Blackboard</em>)</li>
+<li>Customer Relationship Management and marketing automation (<em>e.g. Marketo</em>)</li>
+<li>Email marketing (<em>e.g. Constant Contact</em>)</li>
+<li>Content creation in SaaS systems (<em>e.g. Eventbrite, Evernote, GoFundMe, Zendesk</em>)</li>
+</ul>
+<p>These are just the start. TinyMCE is incredibly flexible, and with hundreds of APIs there''s likely a solution for your editor project. If you haven''t experienced Tiny Cloud, get started today. You''ll even get a free trial of our premium plugins &ndash; no credit card required.</p>
+<h3>Tiny Drive now available</h3>
+<p>We''re excited to announce <strong>Tiny Drive</strong>. File and asset management for TinyMCE, in the cloud, made super easy. Learn more at <a href="drive/">tiny.cloud/drive</a>, where you''ll find a working demo and setup instructions.</p>
+<p><img style="float: left;" src="https://www.tiny.cloud/images/drive-demo/hero-background-campaign-alternate.png" alt="" width="332" height="221" /></p>', '<p><img style="float: right;" src="images/glyph-tinymce@2x.png" alt="TinyMCE" height="150px" /></p>
+<h2>An editor for every project</h2>
+<p>No matter what you''re building, TinyMCE has you covered. From content management to email marketing, here are our customers'' most common uses:</p>
+<ul>
+<li>Content Management Systems (<em>e.g. WordPress, Umbraco</em>)</li>
+<li>Learning Management Systems (<em>e.g. Blackboard</em>)</li>
+<li>Customer Relationship Management and marketing automation (<em>e.g. Marketo</em>)</li>
+<li>Email marketing (<em>e.g. Constant Contact</em>)</li>
+<li>Content creation in SaaS systems (<em>e.g. Eventbrite, Evernote, GoFundMe, Zendesk</em>)</li>
+</ul>
+<p>These are just the start. TinyMCE is incredibly flexible, and with hundreds of APIs there''s likely a solution for your editor project. If you haven''t experienced Tiny Cloud, get started today. You''ll even get a free trial of our premium plugins &ndash; no credit card required.</p>
+<h3>Tiny Drive now available</h3>
+<p>We''re excited to announce <strong>Tiny Drive</strong>. File and asset management for TinyMCE, in the cloud, made super easy. Learn more at <a href="drive/">tiny.cloud/drive</a>, where you''ll find a working demo and setup instructions.</p>
+<p><img style="float: left;" src="https://www.tiny.cloud/images/drive-demo/hero-background-campaign-alternate.png" alt="" width="332" height="221" /></p>', 'draft', '2019-06-20 23:35:22.541+03', '2019-06-20 23:35:22.541+03') ' (line 53): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.article VALUES ('04b5eb79-08b9-47b8-9d8b-b58a26cd4b70', 1, NULL, 'Diğer bir blog post', 'Cras gravida, mauris quis aliquam porta, est massa pretium enim, vel efficitur elit tortor at neque. Integer quis nibh massa. Nunc at massa malesuada, placerat leo vel, imperdiet arcu.', '<hr />
+<div id="Content">
+<div>
+<div id="lipsum">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras gravida, mauris quis aliquam porta, est massa pretium enim, vel efficitur elit tortor at neque. Integer quis nibh massa.</p>
+<p><span style="font-family: roboto, sans-serif;"> Nunc at massa malesuada, placerat leo vel, imperdiet arcu. Integer semper convallis rhoncus. Cras hendrerit tempor nulla et tristique. Vivamus nec quam in lacus cursus finibus. Morbi <strong>tempus</strong>, quam vitae varius sagittis, tortor ligula sodales elit, eu viverra quam eros et sapien. Aliquam <em>elementum</em> ornare nisl id semper.</span></p>
+<p>Vivamus pulvinar a nulla in <span style="text-decoration: underline;">maximus. Donec hendrerit convallis mattis. Ut pretiu</span>m consequat venenatis. Duis auctor rhoncus justo sit amet gravida. Donec sed tempor nibh, in sodales lectus. Morbi at tempus velit. Vestibulum facilisis vulputate dui vel pulvinar. In cursus feugiat elit, eget efficitur purus mollis ac.</p>
+</div>
+</div>
+</div>', '<hr />
+<div id="Content">
+<div>
+<div id="lipsum">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras gravida, mauris quis aliquam porta, est massa pretium enim, vel efficitur elit tortor at neque. Integer quis nibh massa.</p>
+<p><span style="font-family: roboto, sans-serif;"> Nunc at massa malesuada, placerat leo vel, imperdiet arcu. Integer semper convallis rhoncus. Cras hendrerit tempor nulla et tristique. Vivamus nec quam in lacus cursus finibus. Morbi <strong>tempus</strong>, quam vitae varius sagittis, tortor ligula sodales elit, eu viverra quam eros et sapien. Aliquam <em>elementum</em> ornare nisl id semper.</span></p>
+<p>Vivamus pulvinar a nulla in <span style="text-decoration: underline;">maximus. Donec hendrerit convallis mattis. Ut pretiu</span>m consequat venenatis. Duis auctor rhoncus justo sit amet gravida. Donec sed tempor nibh, in sodales lectus. Morbi at tempus velit. Vestibulum facilisis vulputate dui vel pulvinar. In cursus feugiat elit, eget efficitur purus mollis ac.</p>
+</div>
+</div>
+</div>', 'draft', '2019-06-20 23:35:22.548+03', '2019-06-20 23:35:22.548+03') ' (line 72): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('66af7f42-20d3-4a6d-b6c8-82e021278a35', NULL, '{}', 0, 0, 'Live Light', '') ' (line 79): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('a75185e8-fd66-46db-8fb5-2e9bda286952', '66af7f42-20d3-4a6d-b6c8-82e021278a35', '{66af7f42-20d3-4a6d-b6c8-82e021278a35}', 0, 1, 'Beslenme', 'Sağlıklı Beslenme, Zararlı Besinler, Faydalı Bitkiler') ' (line 80): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('c1d9e5ad-1357-4f8b-a27c-8ed62fd8d696', '66af7f42-20d3-4a6d-b6c8-82e021278a35', '{66af7f42-20d3-4a6d-b6c8-82e021278a35}', 1, 1, 'Spor', 'Fitness, Koşu, Crossfit ..') ' (line 81): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('7bd7f39e-afda-44ad-8a9c-f6b0f4dc638c', '66af7f42-20d3-4a6d-b6c8-82e021278a35', '{66af7f42-20d3-4a6d-b6c8-82e021278a35}', 2, 1, 'Psikoloji', 'Stres Yönetimi, Psikoljik rahatsızlıklar ve kökenleri') ' (line 82): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('b2b041a7-ff83-43e1-bd14-f679278200e0', '66af7f42-20d3-4a6d-b6c8-82e021278a35', '{66af7f42-20d3-4a6d-b6c8-82e021278a35}', 3, 1, 'Kişisel Gelişim', 'Başarı, Motivasyon, Mutluluk ..') ' (line 83): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('76128cda-9d06-4d76-aed9-1460228dd109', NULL, '{}', 1, 0, 'Yaşam', '') ' (line 84): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('b22cfefa-9cae-4630-b18a-3cd90b9e7031', '76128cda-9d06-4d76-aed9-1460228dd109', '{76128cda-9d06-4d76-aed9-1460228dd109}', 0, 1, 'İlişkiler', 'İletişim, Aile, Toplumsal Cinsiyet') ' (line 85): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('fd8e2622-d87d-4d91-8af6-a47ddb644089', '76128cda-9d06-4d76-aed9-1460228dd109', '{76128cda-9d06-4d76-aed9-1460228dd109}', 1, 1, 'Kültür & Sanat', 'Kitaplar, Sanat Tarihi, Güncel Haberler') ' (line 86): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('af7f2f33-ff4f-4b23-b155-1742909e0ddd', '76128cda-9d06-4d76-aed9-1460228dd109', '{76128cda-9d06-4d76-aed9-1460228dd109}', 2, 1, 'Eğitim', 'Öğrenme, Etkin Eğitim') ' (line 87): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('af351a76-09fa-4170-a8a2-f5c594051725', '76128cda-9d06-4d76-aed9-1460228dd109', '{76128cda-9d06-4d76-aed9-1460228dd109}', 3, 1, 'Teknoloji', 'Teknolojik Gelişmeler, Girişimler') ' (line 88): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('76e28d8d-3e41-4d75-8255-afe1714c6f4b', NULL, '{}', 2, 0, 'Yoga & Pilates', '') ' (line 89): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('374cc6a1-7990-4326-b919-07bdd5f0843d', '76e28d8d-3e41-4d75-8255-afe1714c6f4b', '{76e28d8d-3e41-4d75-8255-afe1714c6f4b}', 0, 1, 'Yoga', 'Yoga Türleri, Pozlar, Faydaları') ' (line 90): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('6c143301-3edd-4a57-b8ba-c5067775ebb8', '76e28d8d-3e41-4d75-8255-afe1714c6f4b', '{76e28d8d-3e41-4d75-8255-afe1714c6f4b}', 1, 1, 'Pilates', 'Pilates Hareketleri, Faydaları') ' (line 91): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('d0b89da0-2cce-40cd-b807-6ee035cc31d3', '76e28d8d-3e41-4d75-8255-afe1714c6f4b', '{76e28d8d-3e41-4d75-8255-afe1714c6f4b}', 2, 1, 'Meditasyon', 'Meditasyon Teknikleri, Nefes') ' (line 92): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('c4e87309-72e0-4039-9001-2b83e3e787df', '76e28d8d-3e41-4d75-8255-afe1714c6f4b', '{76e28d8d-3e41-4d75-8255-afe1714c6f4b}', 3, 1, 'Egzersizler', 'Yoga ve Pilates Egzersizleri, Videolar') ' (line 93): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('bc238ffc-acff-4d13-b579-c4afeefdaf48', NULL, '{}', 3, 0, 'Gezi', '') ' (line 94): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.category VALUES ('87f6ddf2-cc5f-4f1f-ab33-2eb793975159', 'bc238ffc-acff-4d13-b579-c4afeefdaf48', '{bc238ffc-acff-4d13-b579-c4afeefdaf48}', 0, 1, 'Gezi Rehberi', 'Gezi Önerileri, Rotalar, Doğal Güzellikler') ' (line 95): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.article_categories VALUES ('b2b041a7-ff83-43e1-bd14-f679278200e0', '4eac5f28-9070-4f79-9199-13eb6e183f2f') ' (line 102): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.article_categories VALUES ('af351a76-09fa-4170-a8a2-f5c594051725', '04b5eb79-08b9-47b8-9d8b-b58a26cd4b70') ' (line 103): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.comment VALUES (1, '4eac5f28-9070-4f79-9199-13eb6e183f2f', 2, 'Doktor bu ne?') ' (line 110): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.comment VALUES (2, '4eac5f28-9070-4f79-9199-13eb6e183f2f', 2, 'Güzel olmuş.') ' (line 111): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.comment VALUES (3, '4eac5f28-9070-4f79-9199-13eb6e183f2f', 2, 'Hiç olmuş mu?') ' (line 112): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.comment VALUES (4, '4eac5f28-9070-4f79-9199-13eb6e183f2f', 2, 'Eline sağlık') ' (line 113): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.comment VALUES (5, '04b5eb79-08b9-47b8-9d8b-b58a26cd4b70', 2, 'Peki diğerleri ne yaptı?') ' (line 114): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.comment VALUES (6, '04b5eb79-08b9-47b8-9d8b-b58a26cd4b70', 2, 'İşe yaramaz.') ' (line 115): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.comment VALUES (7, '04b5eb79-08b9-47b8-9d8b-b58a26cd4b70', 2, 'Neden böyle oldu ki?') ' (line 116): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.comment VALUES (8, '04b5eb79-08b9-47b8-9d8b-b58a26cd4b70', 2, 'Sebebi neydi?') ' (line 117): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.role VALUES (1, 'admin') ' (line 124): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.role VALUES (2, 'member') ' (line 125): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.member_roles VALUES (2, 1) ' (line 132): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'INSERT INTO public.member_roles VALUES (2, 2) ' (line 133): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'SELECT pg_catalog.setval('public.comment_id_seq', 8, true) ' (line 146): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'SELECT pg_catalog.setval('public.member_id_seq', 2, true) ' (line 153): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'SELECT pg_catalog.setval('public.motto_id_seq', 1, false) ' (line 160): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+Error executing 'SELECT pg_catalog.setval('public.role_id_seq', 2, true) ' (line 167): HATA: geçerli transaction durduruldu, transaction blokunun sonuna kadar komutlar yok sayılacak
+
+-------
+21/59/2019 21:59:50
+-------
+
+
+-------
+21/04/2019 22:04:29
+-------
+
+
+-------
+21/06/2019 22:06:05
+-------
+
+
+-------
+22/26/2019 10:26:44
+-------
+
+
+-------
+26/36/2019 23:36:24
+-------
+
+
+-------
+26/36/2019 23:36:26
+-------
+
+
+-------
+26/36/2019 23:36:27
+-------
+
+
+-------
+26/36/2019 23:36:36
+-------
+
+
+-------
+26/36/2019 23:36:37
+-------
+
+
+-------
+26/36/2019 23:36:37
+-------
+
+
+-------
+29/03/2019 17:03:20
+-------
+
+
+-------
+29/03/2019 17:03:20
+-------
+
+
+-------
+29/03/2019 17:03:21
+-------
+
+
+-------
+29/16/2019 17:16:27
+-------
+
+
+-------
+29/16/2019 17:16:28
+-------
+
+
+-------
+29/16/2019 17:16:28
+-------
+
+
+-------
+29/17/2019 17:17:05
+-------
+
+
+-------
+29/17/2019 17:17:06
+-------
+
+
+-------
+29/17/2019 17:17:06
+-------
+
+
+-------
+29/17/2019 17:17:31
+-------
+
+
+-------
+29/17/2019 17:17:31
+-------
+
+
+-------
+29/17/2019 17:17:32
+-------
+
+
+-------
+29/00/2019 19:00:07
+-------
+
+
+-------
+29/00/2019 19:00:08
+-------
+
+
+-------
+29/00/2019 19:00:09
+-------
+
+
+-------
+29/12/2019 21:12:20
+-------
+
+
+-------
+29/12/2019 21:12:21
+-------
+
+
+-------
+29/12/2019 21:12:21
+-------
+
+
+-------
+30/39/2019 00:39:09
+-------
+
+
+-------
+30/39/2019 00:39:09
+-------
+
+
+-------
+30/39/2019 00:39:10
+-------
+
+
+-------
+30/41/2019 00:41:04
+-------
+
+
+-------
+30/41/2019 00:41:05
+-------
+
+
+-------
+30/41/2019 00:41:05
+-------
+
+
+-------
+30/42/2019 00:42:31
+-------
+
+
+-------
+30/42/2019 00:42:32
+-------
+
+
+-------
+30/42/2019 00:42:32
+-------
+

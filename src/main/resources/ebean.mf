@@ -1,0 +1,3 @@
+entity-packages: app.backend.models
+transactional-packages: app.backend
+querybean-packages: app.backend.models

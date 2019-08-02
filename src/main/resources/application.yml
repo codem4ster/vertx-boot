@@ -1,0 +1,14 @@
+datasource:
+  db:
+    username: postgres
+    password: ${K_APP_PASSWORD}
+    url: jdbc:postgresql://localhost:5432/db
+    driver: org.postgresql.Driver
+
+ebean:
+  platform: postgres # h2, postgres, mysql, oracle, sqlserver, sqlite
+  ddlMode: migration # none | dropCreate | create | migration | createOnly | migrationDropCreate
+  migration:
+    generate: true
+    run: true
+    applyPrefix: V

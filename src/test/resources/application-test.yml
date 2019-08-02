@@ -1,0 +1,14 @@
+ebean:
+#  ddl:
+#    seedSql: seed.sql
+  test:
+    #    shutdown: stop # stop | remove
+    platform: postgres # h2, postgres, mysql, oracle, sqlserver, sqlite
+    ddlMode: none # none | dropCreate | create | migration | createOnly | migrationDropCreate
+    dbName: nes_blog_test
+    postgres:
+      username: postgres
+      password: ${K_APP_PASSWORD}
+      url: jdbc:postgresql://localhost:5432/db
+    useDocker: false
+
