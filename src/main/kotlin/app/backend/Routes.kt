@@ -30,7 +30,7 @@ class Routes(
 //      "put" to listOf(),
 //      "delete" to listOf()
 //    )
-//    setAuthRoutes(authorizedRoutes, router, appConfig)
+//    setAuthRoutes(authorizedRoutes)
 
 
     router.get("/").crHandler(siteController::index)
@@ -77,7 +77,7 @@ class Routes(
     }
   }
 
-  private fun setAuthRoutes(authorizedRoutes: Map<String, List<String>>, router: Router) {
+  private fun setAuthRoutes(authorizedRoutes: Map<String, List<String>>) {
     listOf("get", "post", "patch", "delete", "put").forEach { method ->
       authorizedRoutes[method]?.forEach { path ->
         val route = router.javaClass
